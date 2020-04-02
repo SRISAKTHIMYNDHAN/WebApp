@@ -4,7 +4,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>AVNLogin</title>
+  <title>Marslander</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -165,16 +165,16 @@ position: absolute;
 </div><br>
 <img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">PROGRAM PHOENIX</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
 <i>
-<font color="darkorange">Help Desk</font>
+<font color="darkblue">Help Desk</font>
 </i>
 </b>
 <br><br>
-The Mars Help Desk, can assist with issues and concerns regarding:
+The Help Desk, can assist with issues and concerns regarding:
 <br><br>
 <i>
 <font color="orange"> Troubleshooting problems</font>
@@ -192,7 +192,7 @@ The Mars Help Desk, can assist with issues and concerns regarding:
 <ul style="margin-left:20px">
 <li>Call 123-456-7890</li>
 <li>
-<a href="mailto:compliant@devopsunion.com">Email</a>
+<a href="mailto:compliant@devopscasestudy.com">Email</a>
 </li><br>
  Wholesale Customer Care:
 <br>
